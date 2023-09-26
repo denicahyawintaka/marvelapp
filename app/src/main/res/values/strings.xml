@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Edot Test</string>
+    <string name="title_home">Home</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_download">Download</string>
+    <string name="title_more">More</string>
+</resources>
